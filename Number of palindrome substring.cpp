@@ -1,3 +1,4 @@
+/**Time complexity O(n^2)**/
 #include<bits/stdc++.h>
 #define ll long long
 using namespace std;
